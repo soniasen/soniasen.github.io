@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neurodevelopment and Behaviour"
+title                    : "Neurodevelopment"
 title_separator          : "-"
 name                     : &name "Sonia Q Sen"
 description              : &description "Developmental neurobiologist"
