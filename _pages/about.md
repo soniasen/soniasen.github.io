@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Neurodevelopment and behaviour"
+excerpt: "Neurodevelopment and behaviour"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I was drawn to neurobiology because of a talk by [Veronica Rodrigues](https://en.wikipedia.org/wiki/Veronica_Rodrigues). She was presenting her work on the development of the fly olfactory circuit and I was captivated by the idea that one could observe and investigate such complex cellular processes during development.
+All organisms sense their environment and respond to it. But because animals have nervous systems, their repertoire of responses to environmental stimuli are exquisite and complex. The underlying nervous system is also complex. Even the ‘simplest’ ones are made up of many different types of neurons and glia that make precise and specific connections with each other. 
 
-I have since used Drosophila as a model to understand how diverse neurons of the brain are generated and assembled into circuits during development. More recently, I have become interested in how such circuits in the brain give rise to complex behaviours such blood feeding in female mosquitoes.
+So, we want to understand how this complexity is assembled during development and how it gives right to behaviour.
