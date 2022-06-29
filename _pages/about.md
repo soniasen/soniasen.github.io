@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Neurodevelopment and behaviour of insects"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I was drawn to neurobiology because of a talk by [Veronica Rodrigues](https://en.wikipedia.org/wiki/Veronica_Rodrigues). She was presenting her work on the development of the fly olfactory circuit and I was captivated by the idea that one could observe and investigate such complex cellular processes during development.
 
