@@ -1,9 +1,12 @@
 ---
-permalink: /
+layout: archive
 title: "Blog Posts"
+permalink: /blog/
 excerpt: "Blog"
 author_profile: true
 redirect_from: 
-  - /blog/
+  - /blog
 ---
 Test
+
+{% include base_path %}
