@@ -20,4 +20,4 @@ NSCs are specified by regionally expressed embryonic patterning genes expressed 
 
 **Blood feeding behaviour**
 
-To understand how neural circuits control behaviour, we turn to a different the mosquito, Anopheles stephensi, an Indian malarial vector that is rapidly expanding its range into Africa. Like many other mosquitoes it usually feeds on nectar or sap, but occasionally the female switches to taking blood meals. This change in dietary preference lies at the heart of disease transmission. So, we want to understand how central brain circuitry responds to environmental cues ri  drive this change in dietary preference.
+To understand how neural circuits control behaviour, we turn to a different the mosquito, Anopheles stephensi, an Indian malarial vector that is rapidly expanding its range into Africa. Like many other mosquitoes it usually feeds on nectar or sap, but occasionally the female switches to taking blood meals. This change in dietary preference lies at the heart of disease transmission. So, we want to understand how central brain circuitry responds to environmental cues ri  drive this change in dietary preference. 
