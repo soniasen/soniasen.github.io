@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-All organisms sense their environment and respond to it. But because animals have nervous systems, their repertoire of responses to environmental stimuli are exquisite and complex. The underlying nervous system is also complex. Even the ‘simplest’ ones are made up of many different types of neurons and glia that make precise and specific connections with each other. 
-
-So, we want to understand how this complexity is assembled during development and how it gives right to behaviour.
+The behavioral repertoire of animals is exquisite and complex. This is made possible by the nervous system, which is equally complex. In most, very many different types of neurons and glia make precise and specific connections with each other. We study how this complexity is assembled during development, how it gives right to behaviour, and how it might have evolved.
