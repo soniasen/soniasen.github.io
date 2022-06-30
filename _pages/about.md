@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Neurodevelopment and behaviour"
-excerpt: "Neurodevelopment and behaviour"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
