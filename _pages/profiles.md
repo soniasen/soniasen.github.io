@@ -1,28 +1,60 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: 
 nav: true
-nav_order: 7
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: sonia_pic.jpg
+    content: about_sonia.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sonia Sen</p>
+      <p>Principal Scientist</p>
+      <p>sonia.sen@tigs.res.in</p>
+  - align: left
+    image: prashali_pic.jpg
+    content: about_prashali.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Prashali Bansal</p>
+      <p>Post Doctoral researcher</p>
+      <p>prashali.bansal@tigs.res.in</p>
+  - align: left
+    image: mahadev_pic.jpg
+    content: about_mahadeva.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mahadeva Swamy H S</p>
+      <p>Post Doctoral researcher</p>
+      <p>mahadeva.swamy@tigs.res.in</p>
+  - align: left
+    image: prabitha_pic.jpg
+    content: about_prabitha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Prabitha Mohan</p>
+      <p>Post Doctoral researcher</p>
+      <p>prabitha.m@tigs.res.in</p>
+  - align: left
+    image: ayanthi_pic.jpg
+    content: about_ayanthi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ayanthi Bhattacharya</p>
+      <p>PhD Student</p>
+      <p>ayanthi.b@tigs.res.in</p>
+  - align: left
+    image: nargis_pic.jpg
+    content: about_nargis.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Nargis Mushtaq</p>
+      <p>Research Assistant</p>
+      <p>nargis.mushtaq@tigs.res.in</p>
 ---
