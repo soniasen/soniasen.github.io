@@ -199,9 +199,9 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-
+    
     p {
-      display: inline-block;
+      display: block; // updated to block for view
       margin: 0;
     }
   }
@@ -401,7 +401,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       img {

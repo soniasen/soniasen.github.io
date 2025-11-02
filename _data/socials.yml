@@ -50,7 +50,7 @@ scholar_userid: 4VnkIjwAAAAJ # your Google Scholar ID
 x_username: soniaqsen # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://tigs.res.in/wp-content/uploads/2022/01/logo1-1.png # can be png, svg, jpg
-  title: TIGS
-  url: https://tigs.res.in/
+# custom_social: # can be any name here other than the ones already defined above
+#  logo: https://tigs.res.in/wp-content/uploads/2022/01/logo1-1.png # can be png, svg, jpg
+#  title: TIGS
+#  url: https://tigs.res.in/

@@ -57,4 +57,17 @@ profiles:
       <p>Nargis Mushtaq</p>
       <p>Research Assistant</p>
       <p>nargis.mushtaq@tigs.res.in</p>
+  - align: left
+    image: 
+    content: 
+    image_circular: false
+    more_info: >
+      <h2 style="margin-top: 2rem; margin-bottom: 1rem;">Alumni</h2>
+  - align: right
+    image: 
+    content: about_alumni.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>   
 ---
+

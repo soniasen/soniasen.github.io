@@ -1,2 +1,3 @@
-Write your biography here. Tell the world about yourself. 
+Ayanthi Bhattacharya is a PhD student who is working on Drosophila neurodevelopment. The broad question she is chasing is how a neural precursor cell knows which neurons to make. Each of these precursor cells receives a differential set of positional and temporal cues; Ayanthi’s work tries to understand how these precursors “read” these cues to produce the appropriate neurons.
+Ayanthi’s research interests chiefly lie in developmental biology, behaviour, and Evo-Devo. In her spare time, she likes to sing, draw/design, and write a little. This is when she isn’t dancing to iconic Bollywood songs with her cats—Mitthu and Kiki!
 
