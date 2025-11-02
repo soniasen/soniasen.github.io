@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "",
+          description: "This page is currently under development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -149,13 +149,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/soniaqsen", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://tigs.res.in/", "_blank");
         },
       },{
       id: 'light-theme',
