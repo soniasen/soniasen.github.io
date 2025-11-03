@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 Neurodevelopment and Behaviour Lab at TIGS studies the nervous systems of flies and mosquitoes. The nervous system of insects is complex. It consists of hundreds of thousands of neurons that make intricate and specific connections with each other. We want to understand how this complexity is accurately achieved during development, and ultimately, how it gives rise to behaviour. 
+
+ <img title="Logo" alt="Logo" src="/assets/img/tigs_blisc_logo.jpg" width="400" height="200">
