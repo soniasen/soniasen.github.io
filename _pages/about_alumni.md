@@ -5,12 +5,13 @@
 - Pooja D B, Research Assistant
 - Mandar Naik, Research Assistant
 - Hemalatha Rao, Research Assistant
-- Nandana, MSc thesis student
-- Lakshmi Prakash, MSc thesis student
-- Gayathri S. Pillai, MSc thesis student
-- Trusha S Maakam, MSc thesis student
+- Nandana, M.Sc. thesis student
+- Lakshmi Prakash, M.Sc. thesis student
+- Gayathri S. Pillai, M.Sc. thesis student
+- Trusha S Maakam, M.Sc. thesis student
 - Akshay Sanjeev K, Research Assistant
-- Usha Kiran Sahoo, MSc thesis student
-- Vithur Varenya, MSc thesis student
+- Usha Kiran Sahoo, M.Sc. thesis student
+- Vithur Varenya, M.Sc. thesis student
 - Shekhar Nath Prabhas, Intern
 - Nandita Kadkol, Intern
+- Malica R, M.Sc. thesis student

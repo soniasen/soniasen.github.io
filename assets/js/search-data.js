@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "This page is currently under development.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -59,6 +59,12 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-sonia-in-conversation-with-development",
+          title: 'Sonia in conversation with Development',
+          description: "",
+          section: "News",},{id: "news-nargis-mushtaq-joins-the-lab-welcome",
+          title: 'Nargis Mushtaq joins the lab. Welcome!',
           description: "",
           section: "News",},{id: "news-read-our-latest-work-on-role-of-neuropeptides-in-blood-feeding-on-elife",
           title: 'Read our latest work on role of Neuropeptides in blood feeding on eLife...',
