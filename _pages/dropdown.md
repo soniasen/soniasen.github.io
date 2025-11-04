@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Submenus
-nav: true
-nav_order: 8
+nav: false
+nav_order: 
 dropdown: true
 children:
   - title: bookshelf

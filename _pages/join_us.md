@@ -4,7 +4,7 @@ permalink: /join_us/
 title: Join Us
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 We’re always excited to welcome new minds into our team! Our lab brings together people who are curious about how mosquitoes develop, behave, and interact with their environments. We explore these questions through a mix of neurobiology, ecology, and cutting-edge single-cell omics approaches.
