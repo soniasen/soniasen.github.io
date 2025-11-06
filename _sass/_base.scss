@@ -289,7 +289,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
-    font-size: 0.9rem; // Add this line as per claude
+    font-size: 1 rem; // Add this line as per claude. Value is 0.9 to git everything in. Trying 1 as an experiment, If it works will remain as is
 
     &:hover {
       color: var(--global-hover-color);
