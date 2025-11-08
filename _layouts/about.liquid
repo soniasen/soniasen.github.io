@@ -15,7 +15,7 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
+    {% comment %} {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -36,8 +36,17 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
-    {% endif %}
-
+    {% endif %} "this part was commented out to remove the older about page structure. un comment it and comment the below section to revert to original structure{% endcomment %}
+        {% if page.banner_image %}
+    <div class="banner-image-container">
+      {% assign banner_image_path = page.banner_image | prepend: 'assets/img/' %}
+      <img 
+        src="{{ banner_image_path | relative_url }}" 
+        alt="{{ page.banner_alt | default: 'Banner image' }}" 
+        class="banner-image"
+      />
+    </div>
+  {% endif %}
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->

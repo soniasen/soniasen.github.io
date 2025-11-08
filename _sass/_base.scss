@@ -207,6 +207,7 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+
 .profile.float-right {
   margin-left: 1rem;
 }
@@ -1426,3 +1427,31 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* followign udpate to file made using claude. Idea is to update about page and add a banner image container for the image*/
+
+.banner-image-container {
+  width: 100%;
+  max-width: 1200px; /* Adjust based on your site's max width */
+  margin: 2rem auto; /* Centers the container and adds vertical spacing */
+  padding: 0 1rem; /* Adds some padding on small screens */
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  max-height: 220px; /* Add this line - adjust the pixel value as needed */
+  object-fit: cover; /* Add this line - crops the image to fit the dimensions */
+  display: block;
+  border-radius: 4px; /* Optional: adds slight rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .banner-image-container {
+    margin: 1rem auto;
+    padding: 0 0.5rem;
+  }
+}
+
