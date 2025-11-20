@@ -9,54 +9,64 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
-    image: sonia_pic.jpg
-    content: about_sonia.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Sonia Sen</p>
-      <p>Principal Scientist</p>
-      <p>sonia.sen@tigs.res.in</p>
+  
   - align: left
     image: prashali_pic.jpg
     content: about_prashali.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Prashali Bansal</p>
-      <p>Post Doctoral researcher</p>
+      <p>Postdoctoral fellow</p>
       <p>prashali.bansal@tigs.res.in</p>
-  - align: left
-    image: mahadev_pic.jpg
-    content: about_mahadeva.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Mahadeva Swamy H S</p>
-      <p>Post Doctoral researcher</p>
-      <p>mahadeva.swamy@tigs.res.in</p>
-  - align: left
-    image: prabitha_pic.jpg
-    content: about_prabitha.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Prabitha Mohan</p>
-      <p>Post Doctoral researcher</p>
-      <p>prabitha.m@tigs.res.in</p>
+      <p>@90Prashali(X)</p>
+      <p>@prashali.bsky.social</p>
   - align: left
     image: ayanthi_pic.jpg
     content: about_ayanthi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ayanthi Bhattacharya</p>
-      <p>PhD Student</p>
-      <p>ayanthi.b@tigs.res.in</p>
+      <p>Graduate student</p>
+      <p>ayanthi.b@tigs.res.in</p> 
+      <p>@ayontho(X)</p> 
+  - align: left
+    image: prabitha_pic.jpg
+    content: about_prabitha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Prabitha Mohan</p>
+      <p>Postdoctoral fellow</p>
+      <p>prabitha.m@tigs.res.in</p>
+      <p>@PrabithaMohan(X)</p>
   - align: left
     image: nargis_pic.jpg
     content: about_nargis.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Nargis Mushtaq</p>
-      <p>Research Assistant</p>
+      <p>Research scholar</p>
       <p>nargis.mushtaq@tigs.res.in</p>
+  - align: left
+    image: sonia_pic.jpg
+    content: about_sonia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Sonia Sen</p>
+      <p>PI</p>
+      <p>sonia.sen@tigs.res.in</p>
+      <p>@soniaqsen(X)</p>
+      <p>@soniaqsen.bsky.social</p>
+  - align: left
+    image: mahadev_pic.jpg
+    content: about_mahadeva.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mahadeva Swamy H S</p>
+      <p>Postdoctoral fellow</p>
+      <p>mahadeva.swamy@tigs.res.in</p>
+  
+  
+  
   - align: left
     image: 
     content: 

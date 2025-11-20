@@ -1,2 +1,2 @@
-Write your biography here. Tell the world about yourself. 
+I did my M.Sc in Biochemistry from the University of Kashmir. My research interests span sensory biology and behaviour across multiple model organisms. I am currently working on understanding the neural circuits underlying blood-feeding behaviour in mosquitoes. To study this, I am developing affordable, home-brew methods for spatial transcriptomics. Outside the lab, I enjoy reading science fiction, drawing, playing carrom (or any game, really), and taking long walks around our beautiful Bangalore Life Science Cluster campus.
 

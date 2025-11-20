@@ -15,6 +15,12 @@ nav_order: 3
 
 <div class="publications">
 
+
 {% bibliography %}
 
 </div>
+
+
+
+
+
