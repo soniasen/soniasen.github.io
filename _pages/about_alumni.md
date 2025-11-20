@@ -15,3 +15,4 @@
 - Shekhar Nath Prabhas, Intern
 - Nandita Kadkol, Intern
 - Malica R, M.Sc. thesis student
+- Anushka Sarkar, intern

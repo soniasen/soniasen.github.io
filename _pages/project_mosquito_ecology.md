@@ -1,0 +1,5 @@
+Insects navigate their world through chemical cues. Plants, hosts, water bodies, and microbial communities all release signals that shape insect behaviour: what they feed on, where they lay their eggs, and how they mate. 
+
+We take such an ecological view of mosquito biology and behaviour, asking how different landscapes, seasons, and species shape the cues available to mosquitoes, and how they in turn use those cues to find food, choose habitats, and make decisions across their life cycle. By pairing field ecology with chemical and behavioural assays, we aim to identify the signals that matter most to mosquitoes and understand why. Because many effective intervention strategies are ultimately grounded in chemical ecology, studying these interactions offers a path toward approaches that align with mosquito biology and ecology rather than working agnostic of them.
+
+Collaborators: [Saskya Van Nouhuys](https://ces.iisc.ac.in/?q=user/435), [Amey Redkar](https://www.ncbs.res.in/faculty/aredkar)

@@ -1,2 +1,2 @@
-Write your biography here. Tell the world about yourself. 
+I did my MSc in Biochemistry from the University of Mysore and my PhD from the Centre for Neuroscience at the Indian Institute of Science (IISc), where my research focused on understanding the molecular basis behind the progression of Alzheimer's disease.  I then moved to TIGS where I am establishing more affordable methods for single-cell transcriptomics using combinatorial indexing techniques. I want to be able to make this powerful genomic technology more accessible to broader research groups, thereby accelerating scientific discovery in India. Outside the lab, I enjoy sports and spending time with my family. 
 
