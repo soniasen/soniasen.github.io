@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: 
-banner_image: banner_img_v2.jpg  # Your image filename. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
+banner_image: mainpage6.jpg  # Your image filename. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
 banner_alt: banner  # Alternative text for accessibility. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
 profile:
   align: right
