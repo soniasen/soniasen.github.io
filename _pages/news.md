@@ -10,7 +10,7 @@ nav_order: 2
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
 ### November, 2025
-- Ayanthi's paper goes live on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1). Congratulations to Ayanthi and team!
+- Ayanthi's paper goes live on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1). Congratulations to Ayanthi and team! For a quick summary, check out the tutorial [X](https://x.com/Ayontho/status/1995509421687128533?t=oUlXokop1X8VhhOy6NARzA&s=19).
 
 ### October, 2025
 - Read our latest work on role of neuropeptides in blood feeding in *Anopheles stephensi* on [eLife](https://doi.org/10.7554/eLife.108625.1)
