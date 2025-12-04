@@ -1,3 +1,3 @@
 Gaining evolutionary insights into brain development requires studying organisms that sit at key phylogenetic positions across the tree of life. We want to develop model systems from early diverging animals with complex nervous systems. In collaboration with Dr. Haimanti Biswas at the NIO, we’re exploring the Indian marine environment for the biodiversity it offers. This early groundwork helps to identify and establish appropriate species for future evolutionary comparisons. 
 
-Collaborators: [Haimanti Biswas, NIO](https://www.nio.res.in/profile/1222/dr-haimanti-biswas) and [Farah Ishtiaq](https://tigs.res.in/people/scientists/farah-ishtiaq/)
+Collaborators: [Haimanti Biswas, NIO](https://www.nio.res.in/profile/1222/dr-haimanti-biswas) and [Farah Ishtiaq, TIGS](https://tigs.res.in/people/scientists/farah-ishtiaq/)
