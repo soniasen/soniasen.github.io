@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
+### November, 2025
+- Ayanthi's paper goes live on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1). Congratulations to Ayanthi and team!
 
 ### October, 2025
 - Read our latest work on role of neuropeptides in blood feeding in *Anopheles stephensi* on [eLife](https://doi.org/10.7554/eLife.108625.1)
@@ -33,6 +35,8 @@ Akshay heads to IMSc Chennai for his PhD in Computational Biology, while Trusha 
   <img title="July24" alt="July24" src="/assets/img/July24.jpeg" width="520" height="400">
 
 ### May, 2024
+
+- Prashali's paper on blood-feeding behaviour in *Anopheles stephensi* is now live on [bioRxiv](https://x.com/90Prashali/status/1791163323020415192?t=1De0aTTaWO6pqrgXxssJsQ&s=19)! Congratulations to the team! Also checkout our brief tutorial on [X](https://x.com/90Prashali/status/1791163323020415192?t=1De0aTTaWO6pqrgXxssJsQ&s=19) for a quick overview!
   
 - Nandana heads off to start her PhD at the University of Reading. Congrats and farewell!
 

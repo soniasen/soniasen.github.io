@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-We study how genomes of limited size encode a vast diversity of neurons, how these are assembled into circuits, and how those circuits give rise to behaviour. We frame these questions in an evolutionary context, and because animals live and behave in complex environments, so we also think about behaviour in that ecological setting.
+We study how genomes of limited size encode a vast diversity of neurons, how these are assembled into circuits, and how those circuits give rise to behaviour. We frame these questions in an evolutionary context, and because animals live and behave in complex environments, we also think about behaviour in that ecological setting.
 
 We work across traditional and emerging model organisms. Flies offer the genetic flexibility to dissect developmental logic and prototype tools and methods that can then be transferred into non-traditional model organisms, like mosquitoes, bringing genetic and circuit-level approaches into emerging systems. We study multiple mosquito species for their exquisite behaviours, their chemical ecology, and their impact on human health. Along the way, we like to tinker: building and repurposing technologies, engineering reagents, and using whichever organism or model best answers the question, so that mechanistic ideas about brain development, behaviour, and evolution can be directly tested.
 
