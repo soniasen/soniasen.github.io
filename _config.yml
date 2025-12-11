@@ -196,6 +196,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/teaching.md
+  - _pages/repositories.md
   - _posts/
   - assets/jupyter/blog.ipynb
 keep_files:

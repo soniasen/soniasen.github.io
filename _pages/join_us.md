@@ -4,7 +4,7 @@ permalink: /join_us/
 title: Join Us
 description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 We’re always on the lookout for people who are enthusiastic, motivated, and love to tinker. Many of the things we do live at the intersection of different expertise -  molecular biology, microscopy, data analysis, ecology, electronics, and computer science. If our research areas excite you, or you enjoy working across disciplines to build, test, and explore, we’d love to hear from you!

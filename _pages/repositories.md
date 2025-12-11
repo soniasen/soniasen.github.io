@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: GitHub
 description: This page is under development
-nav: true
-nav_order: 5
+nav: false
+nav_order: 
 ---
 
 
