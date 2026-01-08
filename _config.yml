@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Neurodevelopment and Behaviour Lab # the website title (if blank, full name will be used instead)
-first_name: Neurodevelopment and Behaviour
+first_name: Neurodevelopment and Behaviour Lab
 middle_name:
 last_name:
 contact_note:
@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Website created by Ankit Jetwani and Prashali Bansal. Illustrations by Prashali Bansal. 
-keywords: tigs, soniasen, sonia-sen, neurodevelopment, prashali-bansal, prahsali, mosquito, omics,  # add your own keywords or leave empty
+keywords: TIGS, soniasen, neurodevelopment, behaviour, mosquito, omics,  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -383,15 +383,15 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
-enable_google_verification: false # enables google site verification
-enable_bing_verification: false # enables bing site verification
+enable_google_verification: true # enables google site verification
+enable_bing_verification: true # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
-enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
+enable_tooltips: true # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories

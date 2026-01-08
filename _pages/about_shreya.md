@@ -1,0 +1,2 @@
+I am a final-year B.Tech Biotechnology student at VIT Vellore and am currently pursuing my MSc thesis at TIGS for six months. My work focuses on understanding the feeding patterns of mosquitoes, specifically identifying the crop plants they feed on using metabarcoding approaches. Through this work, I am interested in exploring mosquito-plant interactions and their ecological significance. Outside the lab, I enjoy playing the veena and reading books.
+
