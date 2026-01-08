@@ -47,7 +47,7 @@ profiles:
       <p>Research assistant</p>
       <p>nargis.mushtaq@tigs.res.in</p>
   - align: left
-    image: kevin_pic.jpg
+    image: Kevin_pic.jpg
     content: about_kevin.md
     image_circular: false # crops the image to make it circular
     more_info: >
