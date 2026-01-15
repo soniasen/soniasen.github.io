@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://soniasen.github.io/sitemap.xml
+Sitemap: https://soniaqsen.com/sitemap.xml
