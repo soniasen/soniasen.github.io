@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "",
+          description: "Members of the Sonia Q. Sen Lab at TIGS Bangalore — postdocs, graduate students, and research assistants studying neurodevelopment and behaviour",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
