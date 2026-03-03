@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+page_heading: Neurodevelopment and Behaviour Lab
 subtitle: 
 banner_image: mainpage7.jpg  # Your image filename. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
 banner_alt: banner  # Alternative text for accessibility. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
@@ -35,3 +36,4 @@ We work across traditional and emerging model organisms. Flies offer the genetic
 
 
  <!-- <img title="Logo" alt="Logo" src="/assets/img/tigs_blisc_logo.jpg" width="400" height="200"> -->
+
