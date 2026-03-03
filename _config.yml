@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Neurodevelopment and Behaviour Lab # the website title (if blank, full name will be used instead)
-first_name: Neurodevelopment and Behaviour Lab
-middle_name:
-last_name:
+title: Sonia Q. Sen Lab | Neurodevelopment and Behaviour # the website title (if blank, full name will be used instead)
+first_name: Sonia
+middle_name: Q
+last_name: Sen
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Neurodevelopment and behaviour
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Website created by Ankit Jetwani and Prashali Bansal. Illustrations by Prashali Bansal. 
-keywords: TIGS, soniasen, neurodevelopment, behaviour, mosquito, omics, Sonia, Sen, Prashali  # add your own keywords or leave empty
+keywords: Sonia Q Sen, Sonia Sen Lab, TIGS, soniasen, Drosophila, Anopheles, neural diversity, circuit assembly, neurobiology, Bangalore, India, behaviour, mosquito, omics, Sonia, Sen, Prashali   # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -63,7 +63,7 @@ max_width: 960px # orginal value was 930, revert if it's not looking good
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -78,7 +78,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: google4543850c2578eddc # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -187,6 +187,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _books/
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -271,8 +272,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sen]
+  first_name: [Sonia, S.]
 
   style: apa
   locale: en
@@ -649,4 +650,5 @@ jsonresume:
   - languages
   - interests
   - references
+
 
