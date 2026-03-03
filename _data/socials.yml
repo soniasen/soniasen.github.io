@@ -27,7 +27,7 @@ github_username: soniasen # your GitHub user name
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0003-4693-3378 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -54,3 +54,4 @@ x_username: soniaqsen # your X handle
 #  logo: https://tigs.res.in/wp-content/uploads/2022/01/logo1-1.png # can be png, svg, jpg
 #  title: TIGS
 #  url: https://tigs.res.in/
+
