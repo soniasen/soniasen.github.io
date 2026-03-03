@@ -4,6 +4,9 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
+      {% if page.page_heading %}
+        {{ page.page_heading }}
+      {% elsif site.title == 'blank' %}
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
@@ -87,3 +90,4 @@ layout: default
     {% endif %}
   </article>
 </div>
+
