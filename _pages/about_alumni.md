@@ -17,11 +17,13 @@
 - Roshni Pillai (Amrita School of Biotechnology)- Jan 2020 to June 2020, now a graduate student at Johannes Gutenberg University, Mainz
 - Gayathri S Pillai (Amrita School of Biotechnology) - Feb 2021 to June 2021, now a project support coordinator at Thermo Fisher Scientific India
 - Lakshmi Prakash (IISER-Kolkata) - Aug 2021 to May 2022, now a graduate student at Brown University
-- Nandana K (Vellore Institute of Technology) - Jun 2022 to May 2023, now a graduate student at University of Reading
+- Nandana K (Vellore Institute of Technology, Vellore) - Jun 2022 to May 2023, now a graduate student at University of Reading
 - Trusha S Maakam (St. Joseph’s College of Arts and Science) - Jan 2024 to Jun 2024, now at Sekkei Bio Private Limited,  Bengaluru
 - Malica R, (Avinashilingam University, Coimbatore) - Jan 2024 to July 2024
 - Usha Kiran Sahoo (IISER-Berhampur) - June 2024 to May 2025
 - Vithur Varenya (St. Joseph’s College of Arts and Science) - Jan 2025 to May 2025, now at IISc
+- Shreya Srinivasan (Vellore Institute of Technology, Vellore) - Dec 2025 to April 2026
+- Kevin Thomas Paul (Vellore Institute of Technology, Vellore) - Jan 2026 to April 2026
 
 ### Interns
 - Lakshmi Prakash (IISER-Kolkata) – June 2019 to Aug 2019

@@ -47,14 +47,6 @@ profiles:
       <p>Research assistant</p>
       <p>nargis.mushtaq@tigs.res.in</p>
   - align: left
-    image: Kevin_pic.jpg
-    content: about_kevin.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Kevin Thomas Paul</p>
-      <p>MSc thesis student</p>
-      <p>kevin.thomas@tigs.res.in</p>
-  - align: left
     image: sonia_pic.jpg
     content: about_sonia.md
     image_circular: false # crops the image to make it circular
@@ -72,16 +64,7 @@ profiles:
       <p>Avleen Singh</p>
       <p>Research assistant</p>
       <p>avleen.singh@tigs.res.in</p>
-      <p>@av_bhullar7(X)</p>
-  - align: left
-    image: shreya_pic.jpg
-    content: about_shreya.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Shreya Srinivasan</p>
-      <p>MSc thesis student</p>
-      <p>shreya.srinivasan@tigs.res.in</p>
-      <p>www.linkedin.com/in/shreyasrinivas1<p>     
+      <p>@av_bhullar7(X)</p>   
   - align: left
     image: mahadev_pic.jpg
     content: about_mahadeva.md

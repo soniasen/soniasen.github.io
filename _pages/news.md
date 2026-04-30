@@ -9,8 +9,31 @@ nav_order: 2
 
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
+### April, 2026
+- Kevin and Shreya head off to new ventures! Best wishes and farewell!
+
+### March, 2026
+- It's out! Ayanthi's paper is now in [eLife](https://elifesciences.org/reviewed-preprints/110150#s1). A big shout out to the entire team!
+
+### February, 2026
+- Day out at the gaming arcade
+  
+  <img title="Arcade1.jpeg" alt="Arcade1.jpeg" src="/assets/img/Arcade1.jpeg" width="320" height="250">
+  <img title="Arcade2.jpeg" alt="Arcade2.jpeg" src="/assets/img/Arcade2.jpeg" width="320" height="250">
+  <img title="Arcade3.jpeg" alt="Arcade3.jpeg" src="/assets/img/Arcade3.jpeg" width="320" height="250">
+  <img title="Arcade4.jpeg" alt="Arcade4.jpeg" src="/assets/img/Arcade4.jpeg" width="320" height="250">
+
+### January, 2026
+- The lab kicked off 2026 with a bang, as Kevin Paul Thomas and Avleen Singh join the Sen Lab — welcome aboard!
+
+### December, 2025
+- Leena transitions into an administrative role at TIGS, Srinivas heads back to SNU after a productive stint with us, and we’re delighted to welcome Shreya Srinivas to the lab for her master’s thesis!
+
+- Sonia speaks at the InSDB–ISD Joint Meeting at IISER Berhampur, sharing highlights of our lab’s work and offering a fun peek into the exciting science we do.
+
+
 ### November, 2025
-- Ayanthi's paper goes live on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1). Congratulations to Ayanthi and team! For a quick summary, check out the tutorial [X](https://x.com/Ayontho/status/1995509421687128533?t=oUlXokop1X8VhhOy6NARzA&s=19).
+- Ayanthi's paper goes live on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.25.690435v1). Congratulations to Ayanthi and team! For a quick summary, check out the tutorial [X](https://x.com/Ayontho/status/1995509421687128533?t=oUlXokop1X8VhhOy6NARzA&s=19). Celebrations are ON!
 
 ### October, 2025
 - Read our latest work on role of neuropeptides in blood feeding in *Anopheles stephensi* on [eLife](https://doi.org/10.7554/eLife.108625.1)
