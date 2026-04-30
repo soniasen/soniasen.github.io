@@ -16,7 +16,7 @@ nav_order: 2
 - It's out! Ayanthi's paper is now in [eLife](https://elifesciences.org/reviewed-preprints/110150#s1). A big shout out to the entire team!
 
 ### February, 2026
-- Day out at the gaming arcade
+- Game faces on and lab coats off—our arcade outing was full of strikes, friendly rivalries, and high scores!
   
   <img title="Arcade1.jpeg" alt="Arcade1.jpeg" src="/assets/img/Arcade1.jpeg" width="320" height="250">
   <img title="Arcade2.jpeg" alt="Arcade2.jpeg" src="/assets/img/Arcade2.jpeg" width="320" height="250">
