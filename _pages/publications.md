@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Publications from the Sonia Q. Sen Lab on neurodevelopment and behaviour
 nav: true
 nav_order: 3
 ---
@@ -19,6 +19,7 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+
 
 
 

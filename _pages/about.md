@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+page_heading: Neurodevelopment and Behaviour Lab
 subtitle: 
 banner_image: mainpage7.jpg  # Your image filename. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
 banner_alt: banner  # Alternative text for accessibility. Updated usign claude, this contruct passes the banner image to about.liquid filie which inturn uses base.scss to style
@@ -33,4 +34,7 @@ We study how genomes of limited size encode a vast diversity of neurons, how the
 We work across traditional and emerging model organisms. Flies offer the genetic flexibility to dissect developmental logic and prototype tools and methods that can then be transferred into non-traditional model organisms, bringing genetic and circuit-level approaches into emerging systems. We study multiple mosquito species for their exquisite behaviours, their chemical ecology, and their impact on human health. Along the way, we like to tinker: building and repurposing technologies, engineering reagents, and using whichever organism or model best answers the question, so that mechanistic ideas about brain development, behaviour, and evolution can be directly tested.
 
 
+
  <!-- <img title="Logo" alt="Logo" src="/assets/img/tigs_blisc_logo.jpg" width="400" height="200"> -->
+
+

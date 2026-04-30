@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: 
+description: Members of the Sonia Q. Sen Lab at TIGS Bangalore — postdocs, graduate students, and research assistants studying neurodevelopment and behaviour
 nav: true
 nav_order: 4
 
@@ -101,4 +101,5 @@ profiles:
     more_info: >
       <p> </p>   
 ---
+
 
