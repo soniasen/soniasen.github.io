@@ -9,6 +9,9 @@ nav_order: 2
 
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
+### May, 2026
+- Welcome to the Sen Lab, Debabrata and Yuvaprakash! 
+
 ### April, 2026
 - Kevin and Shreya head off to new ventures! Best wishes and farewell!
 
@@ -16,7 +19,7 @@ nav_order: 2
 - It's out! Ayanthi's paper is now in [eLife](https://elifesciences.org/reviewed-preprints/110150#s1). A big shout out to the entire team!
 
 ### February, 2026
-- Game faces on and lab coats off—our arcade outing was full of strikes, friendly rivalries, and high scores!
+- Game faces ON and lab coats OFF — our arcade outing was full of strikes, friendly rivalries, and high scores!
   
   <img title="Arcade1.jpeg" alt="Arcade1.jpeg" src="/assets/img/Arcade1.jpeg" width="320" height="250">
   <img title="Arcade2.jpeg" alt="Arcade2.jpeg" src="/assets/img/Arcade2.jpeg" width="320" height="250">

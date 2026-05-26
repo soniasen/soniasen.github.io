@@ -29,6 +29,16 @@ profiles:
       <p>Graduate student</p>
       <p>ayanthi.b@tigs.res.in</p> 
       <p>@ayontho(X)</p> 
+
+  - align: left
+    image: Debabrata_pic.jpg
+    content: about_Debabrata.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Debabrata Das</p>
+      <p>Summer intern</p>
+      <p>debabrata.das@tigs.res.in</p>
+
   - align: left
     image: prabitha_pic.jpg
     content: about_prabitha.md
@@ -46,6 +56,14 @@ profiles:
       <p>Nargis Mushtaq</p>
       <p>Research assistant</p>
       <p>nargis.mushtaq@tigs.res.in</p>
+  - align: left
+    image: Yuva_pic.jpg
+    content: about_Yuvaprakash.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yuvaprakash S</p>
+      <p>Field assistant</p>
+      <p>yuvaprakash.s@tigs.res.in</p>      
   - align: left
     image: sonia_pic.jpg
     content: about_sonia.md
