@@ -1,0 +1,1 @@
+I completed my M.Sc. in Zoology from Bharathiar University. During my postgraduate studies, I worked on insect toxicology and behavioural studies as part of my dissertation. I have a strong interest in entomology and field-based biological research, particularly in insect ecology, taxonomy, and vector biology.
