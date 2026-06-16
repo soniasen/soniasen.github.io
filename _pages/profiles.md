@@ -40,6 +40,14 @@ profiles:
       <p>debabrata.das@tigs.res.in</p>
 
   - align: left
+    image: Pooja_pic.jpg
+    content: about_Pooja.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Pooja Shashikant Lamkhade</p>
+      <p>Field assistant</p>
+      <p>pooja.lamkhade@tigs.res.in</p>
+  - align: left
     image: prabitha_pic.jpg
     content: about_prabitha.md
     image_circular: false # crops the image to make it circular
@@ -56,6 +64,14 @@ profiles:
       <p>Nargis Mushtaq</p>
       <p>Research assistant</p>
       <p>nargis.mushtaq@tigs.res.in</p>
+  - align: left
+    image: Saistha_pic.jpeg
+    content: about_Saistha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Saistha Ranjan</p>
+      <p>Summer intern</p>
+      <p>saistha.ranjan@tigs.res.in</p>
   - align: left
     image: Yuva_pic.jpg
     content: about_Yuvaprakash.md

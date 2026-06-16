@@ -9,6 +9,9 @@ nav_order: 2
 
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
+### June, 2026
+- Our team just got bigger—excited to have Saistha and Pooja join us in exploring mosquito biology!
+
 ### May, 2026
 - Welcome to the Sen Lab, Debabrata and Yuvaprakash! 
 
