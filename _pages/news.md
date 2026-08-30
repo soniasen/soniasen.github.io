@@ -9,8 +9,18 @@ nav_order: 2
 
 <!-- {% include news.liquid %}  this was commented out as the team wanted a simple text based news page. The dynamic generation is not needed anymore. -->
 
+### July, 2026
+- From Catan evenings to dinner at Sonia’s place, it was a month of good times, great science, and plenty of laughs as we said goodbye to Debabrata and Saistha.
+  
+  <img title="Catan1.jpg" alt="Catan1.jpg" src="/assets/img/Catan1.jpg" width="300" height="250">
+  <img title="Catan2.jpg" alt="Catan2.jpg" src="/assets/img/Catan2.jpg" width="340" height="250">
+  <img title="Sonia_dinner1.jpeg" alt="Sonia_dinner1.jpeg" src="/assets/img/Sonia_dinner1.jpeg" width="200" height="250">
+  <img title="Sonia_dinner2.jpeg" alt="Sonia_dinner2.jpeg" src="/assets/img/Sonia_dinner2.jpeg" width="340" height="250">
+  <img title="Sonia_dinner3.jpeg" alt="Sonia_dinner3.jpeg" src="/assets/img/Sonia_dinner3.jpeg" width="200" height="250">
+  <img title="Sonia_dinner4.jpeg" alt="Sonia_dinner4.jpeg" src="/assets/img/Sonia_dinner4.jpeg" width="300" height="250">
+
 ### June, 2026
-- Our team just got bigger—excited to have Saistha and Pooja join us in exploring mosquito biology!
+- Our team just got bigger — excited to have Saistha and Pooja join us in exploring mosquito biology!
 
 ### May, 2026
 - Welcome to the Sen Lab, Debabrata and Yuvaprakash! 

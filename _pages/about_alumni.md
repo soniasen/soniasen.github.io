@@ -32,6 +32,9 @@
 - Vithur Varenya (St. Joseph’s College of Arts and Science) - June 2024 to Dec 2024
 - Shekhar Nath Prabhas (IIT Bombay) - May 2025 to July 2025
 - Nandita Kadkol (BITS Pilani, Goa) - June 2025 to Aug 2025
+- Debabrata Das (IISER-Berhampur) - May 2026 to July 2026
+- Saistha Ranjan (Ashoka University) - June 2026 to July 2026
+- Ananya Bansal (Sri Venkateswara College, Delhi University) - July 2026 to August 2026
 
 
 

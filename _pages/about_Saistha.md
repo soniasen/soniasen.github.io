@@ -1,1 +1,0 @@
-I am an undergraduate Biology student from Ashoka University. I’m interested in the intersection of molecular biology and immunology, particularly host-microbe interactions. Outside the lab, I enjoy listening to music, playing card games, travelling, and exploring new cafes. 
